@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\super\\Documents\\Unreal Projects\\Gachon-CompanyProject-Unreal\\Three_Kingdoms_Blade\\Source\\Three_Kingdoms_Blade\\Three_Kingdoms_Blade.Build.cs",
+		"C:\\Users\\super\\Documents\\Unreal Projects\\Gachon-CompanyProject-Unreal\\Three_Kingdoms_Blade\\Source\\Three_Kingdoms_Blade.Target.cs",
+		"C:\\Users\\super\\Documents\\Unreal Projects\\Gachon-CompanyProject-Unreal\\Three_Kingdoms_Blade\\Source\\Three_Kingdoms_BladeEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
